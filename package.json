@@ -1,7 +1,7 @@
 {
   "name": "remix-example-turborepo-vercel",
   "private": true,
-  "packageManager": "pnpm@7.0.0-rc.3",
+  "packageManager": "yarn@1.22.18",
   "workspaces": [
     "apps/*",
     "packages/*"
